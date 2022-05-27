@@ -1,0 +1,8 @@
+{
+    "abi":[],
+    "bytcode" : "",
+    "type" : "TransferProxy",
+    "shares" : true,
+    "chain" : "56",
+    "contract_address":"0x7fcb3745a2730aea75bd611e3802b0b4eaaaeefb"
+}
